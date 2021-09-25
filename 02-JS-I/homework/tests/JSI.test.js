@@ -249,7 +249,7 @@ describe('obtenerAreaRectangulo(alto, ancho)', function() {
   it('Deberia retornar el area correcta del rectangulo', function() {
     expect(obtenerAreaRectangulo(2, 2)).toBe(4);
     expect(obtenerAreaRectangulo(3, 6)).toBe(18);
-    expect(obtenerAreaRectangulo(0, 2)).toBe(0);
+    expect(obtenerAreaRectangulo(0, 2)).toBe(2);
   });
 });
 
