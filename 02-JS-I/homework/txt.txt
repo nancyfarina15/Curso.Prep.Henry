@@ -1,0 +1,12 @@
+txt
+
+	* Variables
+	 son datos que pueden ser modificados indefinidas veces
+	* Strings
+	 son una cadena de caracteres que se identifican con comillas.
+	* Funciones (argumentos, `return`)
+     Los argumentos son valores otorgados , la funcion return se imboca para retortar a algo.
+ * Declaraciones `if`
+     las declaraciones If se utilizan para operaciones logicas que den resultados.
+	* Valores booleanos (`true`, `false`)
+     son valores de tipo binario reciben mas de un numero y solo pueden ser verdadero o falso.
